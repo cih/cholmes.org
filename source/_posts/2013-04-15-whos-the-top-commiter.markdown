@@ -8,6 +8,8 @@ categories: git
 
 Working on a large project with a team of developers and want to know how big your contribution is? Here is a simple way to do just that.
 
+<!--more-->
+
 ```
   git shortlog <branch name> --numbered --summary
 ```

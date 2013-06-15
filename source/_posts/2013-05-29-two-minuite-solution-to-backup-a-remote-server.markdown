@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "A two minuite solution to backup a remote server"
+title: "Two minuite solution to backup a remote server"
 date: 2013-05-29 09:36
 comments: true
 categories: [rsync, backups]
 ---
 
 Until recently I had a pretty unorganised approch when it comes to backing up my data. That's not to say I didn't undertand the importance of it or that I didn't do it at all, but it was certainly not an automated or even regular process.
+
+<!--more-->
 
 I have a couple of servers on the cloud hosting service [DigitalOcean](https://www.digitalocean.com/), which is worth checking out if you haven't already. DigitalOcean does offer to take backups in the form of a snapshot of you server, which is great, but it is nice to know that the important code or whatever is in more than one place. Anyway enough talk here are the commands to set this up.
 
