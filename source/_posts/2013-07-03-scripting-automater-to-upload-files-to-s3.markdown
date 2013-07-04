@@ -12,11 +12,12 @@ For me sharing a screenshot used to involve opening up [Transmit](http://panic.c
 
 Firstly open up Automater and create a new service.
 
-![](http://cih-static.s3.amazonaws.com/blog/automater_service.png)
+->![](http://cih-static.s3.amazonaws.com/blog/automater_service.png)<-
 
 From the dropdown for "Service receives selected" select "files or folders" in "Finder", this sets the context for where your new service will be available. From the library on the left choose "Utilities" and drag "Run Shell Script" into the main window. Change the "Pass input:" dropdown to "as arguments" which will pass the file into the script as an argument.
 
-![](http://cih-static.s3.amazonaws.com/blog/automater_script.png)
+
+->![](http://cih-static.s3.amazonaws.com/blog/automater_script.png)<-
 
 The screenshot above shows an example script. The first part copies the url to your clipboard and removes whitespace from the filename, the curl command does the uploading and the final part is for the notification once complete.
 

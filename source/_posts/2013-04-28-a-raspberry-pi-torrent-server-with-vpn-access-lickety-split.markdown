@@ -17,7 +17,7 @@ Just a bit of setup on the machine you will be using to acess the Pi remotely. I
 
 Just follow the installer for the client and once done all you need to do is create a newtwork that you will be able to connect to from the Pi. Navigate to Network > Create Network and you will see the dialog below.
 
-->![Create Hamachi Network](http://cih-static.s3.amazonaws.com/create-hamachi-network.png)<-
+->![Create Hamachi Network](http://cih-static.s3.amazonaws.com/blog/create-hamachi-network.png)<-
 
 So now we can get the Pi setup and connected to our Hamachi network. Now we ssh into the Pi, there is no reason that you can't set this up in a terminal on the Pi but for the pupropse of testing the VPN later it makes sense to do it this way.
 

@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-->![](http://cih-static.s3.amazonaws.com/me_avatar.jpg)<-
+->![](http://cih-static.s3.amazonaws.com/blog/me_avatar.jpg)<-
 
 
 ->"I'm **Chris Holmes**, a full-stack web and mobile developer based in London. I am using mostly Ruby and friends in my day job, outside of that some node.js, Android and iOS."<-

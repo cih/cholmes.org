@@ -12,7 +12,7 @@ categories: [Ruby, Rails, Refinery CMS]
 
 I wanted to add a Twitter account to a site I was making for a client, they wanted to be able to change the account, number of tweets that kind of stuff. I couldn't find an engine out there so I put one together and was happy to be able to give something back for people like myself to use.
 
-![Admin view of the Twitter account](http://cih-static.s3.amazonaws.com/refinerycms-tweets-screenshot.png)
+->![Admin view of the Twitter account](http://cih-static.s3.amazonaws.com/blog/refinerycms-tweets-screenshot.png)<-
 
 I wont go into the technical implementation here as its probably better just to browse through the code and documentation on [github](http://github.com/cih/refinerycms-tweets). You can use a Twitter widget or a simple jQuery implementation with the option of a callback to render the results of the api call yourself.
 
