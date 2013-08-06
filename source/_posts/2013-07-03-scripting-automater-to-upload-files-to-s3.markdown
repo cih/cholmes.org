@@ -3,7 +3,7 @@ layout: post
 title: "Scripting Automater to upload files to S3"
 date: 2013-07-03 18:43
 comments: true
-categories:
+categories: [Ruby, Shell, S3, Automater]
 ---
 
 For me sharing a screenshot used to involve opening up [Transmit](http://panic.com/transmit/), dragging the file in from finder, setting the premissions and copying the URL. Now Automater and a simple shell script enables me to right-click on an image and select "Upload to S3", this uses curl to upload the file to S3, puts the URL of the file on my clipboard and triggers a notification when the file is uploaded. This example uses [Growl](http://growl.info/) for the notification but its easy enough to use a different method if you want. Nice and simple, so here is how to got it set up..

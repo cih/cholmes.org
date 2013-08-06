@@ -3,7 +3,7 @@ layout: post
 title: "Two minuite solution to backup a remote server"
 date: 2013-05-29 09:36
 comments: true
-categories: [rsync, backups]
+categories: [Rsync, Backups]
 ---
 
 Until recently I had a pretty unorganised approch when it comes to backing up my data. That's not to say I didn't undertand the importance of it or that I didn't do it at all, but it was certainly not an automated or even regular process.

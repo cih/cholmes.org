@@ -3,7 +3,7 @@ layout: post
 title: "Who's the top commiter?"
 date: 2013-04-15 17:16
 comments: true
-categories: git
+categories: Git
 ---
 
 Working on a large project with a team of developers and want to know how big your contribution is? Here is a simple way to do just that.
